@@ -1,1 +1,4 @@
-# Power-BI-projects
+**Описание**
+Разработан Financial Dashboard для осознанного ведения финансов и корректировки расходов. 
+
+**Инструменты:** MS Excel, MS Power BI
